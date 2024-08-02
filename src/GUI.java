@@ -265,7 +265,7 @@ public class GUI extends JFrame {
 
     GUI(){
         add(panel);
-        setSize(800, 600);
+        setSize(600, 400);
         setLocationRelativeTo(null);
         panel.setBackground(textArea1.getBackground());
         textArea1.setCaretColor(Color.BLUE);
